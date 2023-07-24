@@ -1,0 +1,2 @@
+# repositoriodepractica
+repositorio para practicar 
